@@ -1,0 +1,59 @@
+"title": "Inception",
+    "releaseDate": "2010-07-16",
+    "genre": "Sci-Fi"
+
+title: The Godfather
+Release Date: March 24, 1972
+Genres: Crime, Drama
+
+title: The Dark Knight
+Release Date: July 18, 2008
+Genres: Action, Crime, Drama
+
+title: Pulp Fiction
+Release Date: October 14, 1994
+Genres: Crime, Drama
+
+title: The Shawshank Redemption
+Release Date: September 23, 1994
+Genres: Drama
+
+title: Titanic
+Release Date: December 19, 1997
+Genres: Romance, Drama, Disaster
+
+title: The Matrix
+Release Date: March 31, 1999
+Genres: Science Fiction, Action
+
+title: Avengers: Endgame
+Release Date: April 26, 2019
+Genres: Action, Adventure, Science Fiction
+
+title: Forrest Gump
+Release Date: July 6, 1994
+Genres: Drama, Romance
+
+title: The Lion King
+Release Date: June 24, 1994
+Genres: Animation, Adventure, Drama
+
+title: Gladiator
+Release Date: May 5, 2000
+Genres: Action, Drama, Adventure
+
+title: Jurassic Park
+Release Date: June 11, 1993
+Genres: Science Fiction, Adventure, Thriller
+
+title: The Lord of the Rings: The Fellowship of the Ring
+Release Date: December 19, 2001
+Genres: Fantasy, Adventure, Action
+
+title: Interstellar
+Release Date: November 7, 2014
+Genres: Science Fiction, Adventure, Drama
+
+title: Fight Club
+Release Date: October 15, 1999
+Genres: Drama, Thriller
